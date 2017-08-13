@@ -1,0 +1,19 @@
+html, body {
+  height: 100%
+}
+
+.container-fluid {
+  height: 100%;
+}
+
+.fill_height {
+  height: 100%;
+}
+
+#input_container {
+  margin-top: 10px;
+}
+
+#solve_button {
+  float: right;
+}
